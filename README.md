@@ -1,16 +1,25 @@
-## Hi there 👋
+# [under construction] Hello! 👋
 
-<!--
-**nicospadea/nicospadea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Industrial Engineer** working as a **Backend Developer for Data**, specializing in **software integrations, implementations, and process consulting**. My experience spans across various technologies, helping businesses streamline their data workflows and optimize system interactions.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Data Projects
+Projects involving data analysis, machine learning, and visualization using **Python, SQL, Pandas, and NumPy**.
+
+- [Project Name](https://github.com/yourusername/project-name) - Brief description of what it does.
+
+### 🎨 Frontend Projects 
+Exploring frontend development with **React, HTML, CSS, and JavaScript** for data.
+
+- [Project Name](https://github.com/yourusername/project-name) - Brief description.
+
+### 🔧 Backend Projects
+Development of backend applications and APIs using **Python, PHP, SQL and Bash**.
+
+- [Project Name](https://github.com/yourusername/project-name) - Brief description.
+
+## 📫 Contact me
+- **GitHub:** [github.com/nicospadea](https://github.com/nicospadea)
+- **LinkedIn:** [linkedin.com/in/nicolas-spadea](https://linkedin.com/in/yourprofilehttps://www.linkedin.com/in/nicolas-spadea/)
+
