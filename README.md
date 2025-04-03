@@ -9,11 +9,6 @@ Projects involving data analysis, machine learning, and visualization using **Py
 
 - [Project Name](https://github.com/yourusername/project-name) - Brief description of what it does.
 
-### 🎨 Frontend Projects 
-Exploring frontend development with **React, HTML, CSS, and JavaScript** for data.
-
-- [Project Name](https://github.com/yourusername/project-name) - Brief description.
-
 ### 🔧 Backend Projects
 Development of backend applications and APIs using **Python, PHP, SQL and Bash**.
 
