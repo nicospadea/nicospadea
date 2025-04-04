@@ -7,7 +7,7 @@ I'm an **Industrial Engineer** working as a **Backend Developer for Data**, spec
 ### 📊 Data Projects
 Projects involving data analysis, machine learning, and visualization using **Python, SQL, Pandas, and NumPy**.
 
-- [countryIpMapper](https://github.com/nicospadea/dataProjects/tree/main/countryIpMapper) - Given a csv file with a list of IPv4s, retrieve its country. 
+- [ip2locX](https://github.com/nicospadea/ip2locX) - Given a csv file with a list of IPv4s, retrieve its country. 
 
 ### 🔧 Backend Projects
 Development of backend applications and APIs using **Python, PHP, SQL and Bash**.
